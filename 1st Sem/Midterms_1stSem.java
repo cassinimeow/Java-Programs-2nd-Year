@@ -27,7 +27,6 @@ public class Midterms_1stSem {
                 break;
             default:
                 bonus = 0;
-                System.out.println("Invalid rating. No bonus awarded.");
         }
 
         System.out.println("Employee Bonus  : $" + (salary * bonus));
