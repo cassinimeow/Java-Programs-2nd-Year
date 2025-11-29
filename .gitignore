@@ -3,3 +3,9 @@
 
 # Ignore bin folder
 /bin/
+
+# VS Code workspace settings (Windows only)
+.vscode/
+
+# VS Code sometimes uses this too
+out/
